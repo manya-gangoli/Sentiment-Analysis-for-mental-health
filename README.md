@@ -66,8 +66,8 @@
  <h2>Contact Information</h2>
     <p>For inquiries or collaboration, feel free to reach out:</p>
     <ul>
-        <li>Email: <a href="mailto:manyagangoli14@gmail.com">youremail@example.com</a></li>
-         <li>LinkedIn: <a href="https://www.linkedin.com/in/manyagangoli/">Your LinkedIn Profile</a></li>
+        <li>Email: <a href="mailto:manyagangoli14@gmail.com">manyagangoli14@gmail.com</a></li>
+         <li>LinkedIn: <a href="https://www.linkedin.com/in/manyagangoli/">Manya Gangoli</a></li>
  </ul>
 
 </body>
