@@ -1,9 +1,9 @@
 
 <h1>Sentiment Analysis for Mental Health Classification</h1>
-<img src="readme_pictures/anxiety.png" alt="anxiety picture">
+<img src="images/anxiety.png" alt="anxiety picture">
 <h2>Introduction</h2>
 <p>This project focuses on classifying mental health-related texts into five categories: <strong>Anxiety</strong>, <strong>Depression</strong>, <strong>Suicidal</strong>, <strong>Bipolar</strong>, and <strong>Normal</strong>. By analyzing text statements, we aim to identify key patterns in mental health issues using machine learning models. This project leverages textual data to create a tool that can provide valuable insights into the mental well-being of individuals, supporting mental health monitoring efforts.</p>
-<img src="readme_pictures/suicidal.png" alt="suicidal picture">
+<img src="images/suicidal.png" alt="suicidal picture">
 <h2>Dataset</h2>
     <p>The dataset contains various mental health-related text statements, categorized into the following classes:</p>
     <ul>
@@ -67,7 +67,7 @@
     <p>For inquiries or collaboration, feel free to reach out:</p>
     <ul>
         <li>Email: <a href="mailto:manyagangoli14@gmail.com">youremail@example.com</a></li>
-       
+         <li>LinkedIn: <a href="https://www.linkedin.com/in/manyagangoli/">Your LinkedIn Profile</a></li>
  </ul>
 
 </body>
