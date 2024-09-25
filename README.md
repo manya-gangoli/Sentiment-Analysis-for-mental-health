@@ -15,7 +15,7 @@
     </ul>
     <p>The dataset includes textual content that reflects different mental health conditions, providing the foundation for model training and classification.</p>
 
-<h2>Business Goal</h2>
+<h2>Project Goal</h2>
     <p>The primary goal is to build a machine learning model that accurately classifies mental health conditions based on text data. This tool can be useful in early mental health detection, allowing for better mental health interventions. While the model doesn’t replace professional diagnosis, it can help in providing automated insights that guide further mental health evaluations.</p>
 
  <h2>Workflow</h2>
