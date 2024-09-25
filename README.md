@@ -1,4 +1,4 @@
- <title>Sentiment Analysis for Mental Health Classification</title>
+
 <h1>Sentiment Analysis for Mental Health Classification</h1>
 <img src="readme_pictures/anxiety.png" alt="anxiety picture">
 <h2>Introduction</h2>
