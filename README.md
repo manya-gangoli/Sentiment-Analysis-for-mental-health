@@ -53,10 +53,10 @@
    <h2>Results</h2>
     <p>Key performance metrics for the models:</p>
     <ul>
-        <li><strong>Accuracy:</strong> X%</li>
+        <li><strong>Accuracy:</strong></li>
         <li><strong>Precision/Recall/F1-Score:</strong> See classification report for detailed performance.</li>
     </ul>
-    <p>Confusion matrix and classification reports are available in the <code>notebooks/</code> folder.</p>
+    
 
 <h2>Contributor</h2>
     <ul>
