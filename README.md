@@ -53,7 +53,7 @@
    <h2>Results</h2>
     <p>Key performance metrics for the models:</p>
     <ul>
-        <li><strong>Accuracy:</strong></li>
+        <li><strong>Accuracy</strong></li>
         <li><strong>Precision/Recall/F1-Score:</strong> See classification report for detailed performance.</li>
     </ul>
     
